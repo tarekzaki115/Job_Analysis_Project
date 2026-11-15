@@ -19,3 +19,5 @@ Thumbs.db
 # Temporary files
 *.log
 *.tmp
+
+raw data/data_jobs.csv
